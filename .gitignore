@@ -1,0 +1,6 @@
+*test*
+./db
+./books
+*.db
+*.pdf
+.env
